@@ -1,6 +1,7 @@
+![Image](chaos.png)
 ### Hi there 👋
 https://igoryermak.xyz/code-art/chaos/
-![Image](chaos.png?raw=true)
+
 
 <!--
 **didacta/didacta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
