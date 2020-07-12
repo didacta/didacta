@@ -1,4 +1,4 @@
-![Image](chaos.png)
+![Image](https://github.com/didacta/didacta/blob/master/chaos.png?raw=true)
 ### Hi there 👋
 https://igoryermak.xyz/code-art/chaos/
 
