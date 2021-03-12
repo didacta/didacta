@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/9103032/110893077-4bfc6d80-82c3-11eb-986a-eb58e4b3e417.png)
 ![Image](https://github.com/didacta/didacta/blob/master/chaos.png?raw=true)
 ### Hi there 👋
 https://igoryermak.xyz/code-art/chaos/
