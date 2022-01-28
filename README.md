@@ -1,5 +1,6 @@
-![image](https://raw.githubusercontent.com/didacta/github-stats/323e1173143023ab76a7d7b9875789bcda47f567/generated/overview.svg)
-![Image](https://github.com/didacta/didacta/blob/master/chaos.png?raw=true)
+<!-- ![image](https://raw.githubusercontent.com/didacta/github-stats/323e1173143023ab76a7d7b9875789bcda47f567/generated/overview.svg) -->
+![image](https://user-images.githubusercontent.com/9103032/151490139-6d50febd-9f38-4ebb-a999-a430342c823d.png)
+
 ### Hi there 👋
 https://igor-y.netlify.app/code-art/chaos
 
